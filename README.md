@@ -1,7 +1,5 @@
 # How-to build:
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7f90799595834061894498abeee44223)](https://app.codacy.com/manual/brunohaf/es.api?utm_source=github.com&utm_medium=referral&utm_content=brunohaf/es.api&utm_campaign=Badge_Grade_Dashboard)
-
 - Clone this repository.
 - Download and install Node from Node.js *[website](https://nodejs.org/en/download/)*.
 - Navigate to es.api local repository and open [git bash](https://gitforwindows.org/) or the default windows cmd prompt.
@@ -41,6 +39,6 @@ Save the app name given in the console message:<br>
 - Publish your app with:
 - `git push <remoteName> master`
 
-## Click [HERE](https://es-api1.herokuapp.com/ ) to explore es.api
+## Click [HERE](https://fantasy-home-brewery.herokuapp.com/) to explore fantasy-home-brewery
 
 ![Alt Text](https://i.giphy.com/media/SQgbkziuGrNxS/giphy.webp)
